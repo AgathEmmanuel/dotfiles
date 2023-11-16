@@ -13,3 +13,6 @@ Ctrl+2  focus on second editor window
 Ctrl+3  focus on third editor window  
 
 Ctrl+Shift+V  Readme preview window  
+
+
+
