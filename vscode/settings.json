@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "editor.minimap.enabled": false,
+    "editor.lineNumbers": "off",
+    "editor.stickyScroll.scrollWithEditor": false,
+    "github.gitAuthentication": false,
+    "git.terminalAuthentication": false,
+    "terminal.integrated.tabs.enabled": false,
+    "window.zoomLevel": 1,
+    "window.commandCenter": false,
+    "editor.glyphMargin": false,
+    "vim.useSystemClipboard": true,
+}
