@@ -123,6 +123,15 @@ fi
 
 set -o vi
 
+
+alias wsl='/mnt/c/Windows/System32/wsl.exe'
+alias wslk='wsl -d kali-linux'
+alias ollama='/mnt/c/Users/agath/AppData/Local/Programs/Ollama/ollama.exe'
+alias vbm='/mnt/c/Program\ Files/Oracle/VirtualBox/VBoxManage.exe'
+alias vbmkup='vbm startvm --type=headless kali-linux-2025.1a-virtualbox-amd64'
+alias vbmkip='vbm guestproperty get "kali-linux-2025.1a-virtualbox-amd64" "/VirtualBox/GuestInfo/Net/0/V4/IP"'
+
+
 alias tn='tmux new -s'
 alias ta='tmux a -t'
 alias tl='tmux ls'
